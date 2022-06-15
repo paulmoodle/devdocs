@@ -66,7 +66,7 @@ In particular though, we are committed to helping to promote [<span class="under
 <th> Moodle Workplace </th>
 <th> Moodle Apps </th>
 <th> MoodleCloud </th>
-<th> MoodleNet </th>
+<th> MoodleNet <a href="https://tracker.moodle.org/projects/MDLNET?selectedItem=com.atlassian.jira.jira-projects-plugin%3Arelease-page&status=released-unreleased" target="_blank">*</a></th>
 <th> Moodle Academy </th>
 </tr>
 </thead>
